@@ -1,0 +1,6 @@
+@WorkshoAPI_HostAddress = http://localhost:5069
+
+GET {{WorkshoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
