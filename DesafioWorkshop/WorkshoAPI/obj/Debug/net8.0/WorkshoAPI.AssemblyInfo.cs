@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkshoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f3c00d9078b4e005cab8e73ffbd0a8875cef245")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a156163e81e8881f76b11ed2a9b91e1f63c4172")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkshoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkshoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
